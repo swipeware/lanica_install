@@ -87,8 +87,10 @@ getListing()
                 installFiles $listing
             else
                 echo "Error processing $zipfile"
-                break
             fi 
+
+            break
+            
         else
             if [ $VERSIONLEVEL == 1 ]; then
                 echo "Updating version: `eval basename '$listing'`"
