@@ -21,4 +21,5 @@ Installation script for easy installation of Lanica modules
 
 <b>Installation & usage</b>
 
-Copy this script to a folder within your path. To use, go to a folder containing Lanica module zip files and invoke the script. It will automatically extract and put the modules into your Titanium modules folder.
+Copy this script to a folder within your path and make sure is has execute permissions. 
+To use, go to a folder containing Lanica module zip files and invoke the script. It will automatically extract and put the modules into your Titanium modules folder.
