@@ -16,3 +16,8 @@ Installation script for easy installation of Lanica modules
        -h      Show this message
        -r      Replace modules and delete old versions
 
+
+
+
+Installation & usage
+Copy this script to a folder within your path. To use, go to a folder containing Lanica module zip files and invoke the script. It will automatically extract and put the modules into your Titanium modules folder.
